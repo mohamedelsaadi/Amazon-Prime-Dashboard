@@ -16,4 +16,5 @@ This repository contains a Power BI dashboard that provides insights into the co
 - **Start Date**: The earliest date of content available.
 - **End Date**: The latest date of content available.
 
+![amazon](https://github.com/user-attachments/assets/ad2e0134-3d5d-4a3b-96e7-65035138b6fd)
 
